@@ -1,10 +1,10 @@
-A simple and intuitive task management application to help you stay organized and productive.
+DESCRIPTION:A simple and intuitive task management application to help you stay organized and productive.
 
-Features:
+FEATURES:
 create,edit and delete task with ease
 mark tasks as high, medium, or low priority.
 sort tasks by priority,due date or alphabetical order.
 
-Requirements:
+REQUIREMENTS:
 yarn or npm
 web browser
